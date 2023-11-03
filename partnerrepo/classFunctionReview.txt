@@ -1,0 +1,9 @@
+1.Yes it was easy to find my classmates assignment.
+
+2.Yes their documention was clear and concise on what their program is designed to do.
+
+3.No their documention was not clear and concise on how to install their program.
+
+4.Yes the program did work as described.
+
+5.Put how to install your code that is my recommendation.
